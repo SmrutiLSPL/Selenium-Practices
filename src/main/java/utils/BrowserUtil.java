@@ -15,7 +15,7 @@ import customeException.FrameworkException;
  */
 public class BrowserUtil {
 	private WebDriver driver;
-/**
+/** 
  * This method is used to initialize in driver on the basis of giver browser name.
  * valid browser : chrome/firefox/edge.
  * @param browserName
